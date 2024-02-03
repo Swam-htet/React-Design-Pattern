@@ -1,13 +1,25 @@
-import './App.css';
-import ContainerPresenterPattern from "./ContainerPresenterPattern";
+// import './App.css';
+import RenderPattern from "./patterns/RenderPattern";
+import CustomFormikTest from "./CustomFormik";
 
 function App() {
-  return (
-    <div className="App">
-      {/*<ContainerPresenterPattern/>*/}
+    return (
+        <div className="App">
+            {/*<ContainerPresenterPattern/>*/}
 
-    </div>
-  );
+            {/*<HOCPattern/>*/}
+
+
+            {/*     TODO : Remain    */}
+            {/*<CompoundComposition/>*/}
+
+            {/*<RenderPattern/>*/}
+
+            <CustomFormikTest/>
+
+
+        </div>
+    );
 }
 
 export default App;

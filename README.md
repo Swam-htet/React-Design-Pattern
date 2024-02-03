@@ -11,4 +11,9 @@ npm start
 ## Table of Contents
 
 - Container Presenter Pattern
+- Higher Order Component Pattern
+
+
+
+- Component Composition Pattern
 - 
